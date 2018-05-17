@@ -8,9 +8,6 @@ This work aims to reduce the variance of batch off-policy estimators by using th
 
 I worked with Harvard graduate student Eric Mibuari on the problem of using community reports to forecast a borrower's probability of repaying a loan. We designed an incentive compatible mechanism to obtain reports from a borrower's social circle on the borrower's creditworthiness, and formulated a lender's optimization problem, where the lender seeks to maximize profits whilst varying the number of community members they seek reports from and the amount of cash incentive these people are paid for reporting truthfully. This project was completed as part of Professor Yiling Chen's graduate seminar on topics at the interface of computer science and economics. 
 
-## Political Leaning Prediction
-
-I worked with three other Harvard undergraduates on building a model to forecast whether a voter leans Democrat or Republican, using a datset provided by BlueLabs. This project was done as part of Professor Mark Glickman's class on Generalized Linear Models. We came up with a highly interpretable model that also achieved one of the highest predictive accuracies in the class, and as a result our professor shared the work with BlueLabs. 
 
 ## Musical Accompaniment to Solo Translation via RNN Encoder-Decoder
 
